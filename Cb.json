@@ -3,7 +3,7 @@
   "standards":[
 	{
                 "Standard": "STD-01",
-                "Threshold": "violations",
+                "Threshold": "280",
 		"Scan_Type": "FOSS",
 		"Severe": "25",
 		"Critical": "20",
